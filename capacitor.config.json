@@ -1,0 +1,6 @@
+{
+  "appId": "com.anestesiacalc.pro",
+  "appName": "AnestesiaCalc Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
